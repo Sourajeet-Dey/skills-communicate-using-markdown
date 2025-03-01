@@ -6,3 +6,7 @@
 ###### This is `<h6>` tag
 
 ![Murakamicat](https://octodex.github.com/images/murakamicat.png)
+
+```sql
+select * from tablename where condition = value
+```
